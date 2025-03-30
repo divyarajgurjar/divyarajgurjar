@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b7611clrh1e93dkbiwavcxchpat0bl0u6wicc0m5m0a88&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 I am currently studying in 3rd year of college.<br>I am learning to be Full Stack Developer.<br>I am currently working on library Vyom UI.
 
 
