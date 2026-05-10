@@ -1,10 +1,11 @@
 #  About Me:
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b7611clrh1e93dkbiwavcxchpat0bl0u6wicc0m5m0a88&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-   Currently prusuing my B.tech Degree (3rd year) <br> 
+   Currently pursuing my B.Tech Degree (final year) <br> 
 - Frontend & Software Developer | Tech Enthusiast <br>
 - Building Vyom UI – A sleek & minimal CSS + JS UI library <br>
+- Building Atomix - A superfast utility-first CSS framework <br>
 - Learning software development & open-source contributions <br>
-- Passionate about fitness, MMA, and psychology <br> 
+- Passionate about programming, MMA, and psychology <br> 
 <br> <br> 
 <br> <br>
 
